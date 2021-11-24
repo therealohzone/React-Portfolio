@@ -25,7 +25,7 @@ function About() {
             <div className="row">
               <a href="https://github.com/therealohzone" target="_blank" rel="noopener noreferrer"><i className="fab fa-github icon"></i></a>
               <a href="hhttps://www.linkedin.com/in/john-oh-2ab104215/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin icon"></i></a>
-              <a href="mailto:gscalica@gmail.com"><i className="fas fa-envelope icon"></i></a>
+              <a href="mailto:johnoh@usc.edu"><i className="fas fa-envelope icon"></i></a>
             </div>
             
           </div>
