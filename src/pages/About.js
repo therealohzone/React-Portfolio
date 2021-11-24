@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+
 
 
 
@@ -24,7 +24,7 @@ function About() {
             <p>Contact Me:</p>
             <div className="row">
               <a href="https://github.com/therealohzone" target="_blank" rel="noopener noreferrer"><i className="fab fa-github icon"></i></a>
-              <a href="hhttps://www.linkedin.com/in/john-oh-2ab104215/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin icon"></i></a>
+              <a href="https://www.linkedin.com/in/john-oh-2ab104215/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin icon"></i></a>
               <a href="mailto:johnoh@usc.edu"><i className="fas fa-envelope icon"></i></a>
             </div>
             
