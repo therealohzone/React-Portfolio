@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Code Quiz",
+      "image": "",
+      "description": "An application to help beginning developers learn Javascript through a fun Quiz.",
+      "tryLink": "https://therealohzone.github.io/Code-Quiz/",
+      "repository":  "https://github.com/therealohzone/Code-Quiz"
+    },
+    {
+      "id": 2,
+      "name": "Weather Dashboard",
+      "image": "",
+      "description": "An application that is in a blog format to help scientific papers with null results to be published.",
+      "tryLink": "https://therealohzone.github.io/The-Null-Report/",
+      "repository": "https://github.com/The-Null-Report/The-Null-Report"
+    },
+    {
+      "id": 3,
+      "name": "Pet Adoption",
+      "image": "",
+      "description": "To help investors visualize if a particular stock has recovered from the Coronavirus Crash.",
+      "note": "Note:  The API key required to run this application may be expired.",
+      "tryLink": "https://therealohzone.github.io/CoronaStockCheck/",
+      "repository": "https://github.com/therealohzone/CoronaStockCheck"
+    }
+   
+  ]
